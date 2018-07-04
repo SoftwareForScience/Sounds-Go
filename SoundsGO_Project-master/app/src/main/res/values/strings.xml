@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SoundsGO</string>
+    <string name="search_button_text">test</string>
+    <string name="random_button_text">capture</string>
+    <string name="movie_name_text_hint">something</string>
+</resources>
